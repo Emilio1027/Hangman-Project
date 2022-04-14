@@ -1,0 +1,4 @@
+door
+window
+dog
+cat
